@@ -1,0 +1,49 @@
+--- 
+comment: |
+  Things not to test on win32
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |AnyEvent-\d
+    |BGS-\d
+    |Bio-Das-ProServer-\d
+    |CGI-CMS-0\.31 
+    |Catalyst-Controller-SOAP\d 
+    |Coro-4\.45
+    |DBIx-Log4perl-\d
+    |DBIx-Recordset-0\.26
+    |Danga-Socket-1\.59
+    |Debian-Package-Make-\d
+    |Directory-Scratch-Structured-0\.03
+    |File-NFSLock-\d
+    |Games-RolePlay-MapGen-\d
+    |HTTP-Proxy-\d
+    |HTTP-Server-Simple-\d
+    |IPC-DirQueue-\d
+    |IPC-MorseSignals-0\.12
+    |Konfidi-Client-1\.0\.4 
+    |LWPx-TimedHTTP-1\.5 
+    |LaTeX-Driver-0\.07 
+    |Lirc-Client-1\.50 
+    |Net-Pcap-\d
+    |Net-Server-Mail-0\.17
+    |POD-Tested-0\.05
+    |POE-Component-Client-HTTP
+    |POE-Component-Client-SMTP-\d
+    |POE-Component-MessageQueue-\d
+    |POE-Component-PreforkDispatch-0\.101 
+    |POE-Component-Server-HTTP-\d
+    |POE-Component-Server-HTTP-KeepAlive-0\.0300
+    |Parallel-SubFork-0\.02
+    |Paranoid-0\.18
+    |Prima-
+    |Proc-Simple-1\.22 
+    |RT-Client-REST-\d
+    |Term-Shell-\d
+    |Test-WWW-Selenium-Catalyst-\d
+    |XML-Stream-\d
+    )|
+disabled: 1
+
