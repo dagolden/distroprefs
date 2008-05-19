@@ -1,0 +1,16 @@
+--- 
+comment: |
+  Things that hang in tests
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Egg-Release-DBI-\d         # deep recursion locks system
+    |Mac-iTunes
+    |Mail-Sender-\d
+    |Net-Ifconfig-Wrapper-\d
+    |POE-Component-DirWatch-\d
+    |Rstat-Client-\d
+    |Term-Screen-\d
+    )|

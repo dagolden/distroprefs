@@ -1,0 +1,12 @@
+--- 
+comment: |
+  Things not to test on linux
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Win32(API)?-                         # Don't test win32 on Linux
+    )|
+disabled: 1
+

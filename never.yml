@@ -1,0 +1,13 @@
+--- 
+comment: |
+  Things not to test at all
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Alien-
+    |Perl-Dist
+    )|
+disabled: 1
+

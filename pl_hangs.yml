@@ -1,0 +1,34 @@
+--- 
+comment: |
+  Things that hang in PL
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Apache-AuthCookie-3.\12_01
+    |Apache-Test-1\.30
+    |Apache-forks-\d
+    |Apache2-ASP-\d
+    |Chart-Graph-\d
+    |DBD-Pg-\d
+    |DBIx-Password-\d
+    |DbFramework-\d
+    |File-Rsync-\d
+    |HTML-WikiConverter-DokuWikiFCK-\d
+    |IPTables-IPv4-DBTarpit-\d
+    |Lingua-PT-Speaker-\d
+    |LaTeX-Driver-\d
+    |Math-Pari-\d
+    |Net-LDAPapi-\d
+    |Net-MirrorDir-0\.15
+    |NetSNMP-OID-5\.0401
+    |OpenResty-\d
+    |PApp-\d
+    |PersistentPerl-2\.22
+    |RRDTool-OO-0\.21
+    |SNMP-5\.0401
+    |Sepia-0\.96
+    |XML-Comma-\d
+    |mod_perl-\d
+    )|
