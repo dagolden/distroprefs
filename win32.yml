@@ -3,6 +3,8 @@ comment: |
   Things not to test on win32
 disabled: 1
 match:
+  perlconfig:
+    osname: win32
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
