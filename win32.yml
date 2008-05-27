@@ -4,7 +4,7 @@ comment: |
 disabled: 1
 match:
   perlconfig:
-    osname: win32
+    osname: mswin32
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
