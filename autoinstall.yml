@@ -6,7 +6,8 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
-    |Acme-GuessNumber-\d
-    |Crypt-OpenPGP-1\.03
-    |Module-Signature-0\.55
-    )|
+    |Acme-GuessNumber
+    |Crypt-OpenPGP
+    |Module-Signature
+    |Test-MockClass
+    )-\d|

@@ -6,11 +6,60 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
-    |Egg-Release-DBI-\d         # deep recursion locks system
+    |Acme-Tests
+    |ApacheBench
+    |Catalyst-View-Reproxy
+    |Crypt-SKey
+    |DBIx-NamedDSN
+    |DBIx-SQLCrosstab
+    |DBIx-XHTML_Table
+    |Date-LastModified
+    |Devel-ObjectTracker  # consumes all system memory on my smoker
+    |Devel-PreProcessor
+    |Device-SerialPort
+    |EZDBI
+    |Egg-Release-DBI         # deep recursion
+    |FAQ-OMatic
+    |Fax-Hylafax-Client
+    |Game-Planeshift-Info
+    |Geo-Weather
+    |GnuPG
+    |Google-Adwords
+    |HTML-Tested
+    |HTTP-File
+    |HTTP-Lite
+    |Handel
+    |Hardware-1Wire-HA7Net
+    |IMAP-Admin
+    |IO-File-Log
+    |Java
+    |MARC-Errorchecks
     |Mac-iTunes
-    |Mail-Sender-\d
-    |Net-Ifconfig-Wrapper-\d
-    |POE-Component-DirWatch-\d
-    |Rstat-Client-\d
-    |Term-Screen-\d
-    )|
+    |Mail-SendEasy
+    |Mail-Sender
+    |Net-Amazon-Thumbnail
+    |Net-Google
+    |Net-Ifconfig-Wrapper
+    |Net-Telnet
+    |OpenFrame
+    |OpenFrame-Segment-Apache
+    |POE-Component-DirWatch
+    |Qmail-Mysql
+    |Rstat-Client
+    |SQL-AnyDBD
+    |Sudo
+    |Term-Screen
+    |Term-Twiddle
+    |Test-Harness-FileFilter  # deep recursion
+    |Text-Reflow
+    |TiVo-HME
+    |UDPM
+    |VCS-Vss
+    |WWW-Google-Groups
+    |WWW-LEO
+    |WWW-Search-Googlism
+    |WebService-FreeDB
+    |WebService-GoogleHack
+    |WebService-Mappoint
+    |XML-DB
+    )-\d|
