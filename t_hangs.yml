@@ -20,6 +20,7 @@ match:
     |Date-LastModified
     |Devel-ObjectTracker    # consumes all system memory on my smoker
     |Devel-PreProcessor
+    |Devel-Trace
     |Device-Audiotron
     |Device-SerialPort
     |EZDBI
@@ -41,15 +42,20 @@ match:
     |IO-File-Log
     |IPC-Shareable
     |Java
+    |Log-ErrLogger
     |MARC-Errorchecks
     |MIDI-Music
+    |MMM-OracleDump
+    |MOP
     |Mac-iTunes
     |Mail-SendEasy
     |Mail-Sender
+    |Math-TrulyRandom
     |MySQL-TableInfo
     |Net-APP
     |Net-Amazon-Thumbnail
     |Net-DLookup
+    |Net-Goofey
     |Net-Google
     |Net-Ifconfig-Wrapper
     |Net-Peep
@@ -62,6 +68,7 @@ match:
     |Rstat-Client
     |SQL-AnyDBD
     |Script
+    |Statistics-MaxEntropy
     |Sudo
     |Sybase-RepAgent
     |Sys-Ptrace

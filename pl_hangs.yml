@@ -7,6 +7,7 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |AFS
+    |Agent
     |Alzabo-GUI-Mason
     |Apache-AppCluster
     |Apache-AuthCookie
@@ -21,6 +22,7 @@ match:
     |Apache2-ASP
     |Async-Callback
     |Authen-Krb5-Easy
+    |B-JVM-Jasmin
     |Bio-Medpost
     |Business-CSI
     |CGI-Debug
@@ -94,6 +96,8 @@ match:
     |grepmail
     |htpl
     |mod_perl
+    |nsapi_perl
+    |perldap
     |rrdpoller
     |stem
     |xDash
