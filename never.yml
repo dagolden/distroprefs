@@ -6,11 +6,10 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
-    |Alien-
-    |DBD-JDBC-\d # whoa! somehow killed a whole smoking session.  SIGHUP?
-    |Perl-Dist
-    |XAO-        # a whole family of dists that prompt.  ugh
-    |XML-DB     # hangs in test (no version number)
-    |TSM_\d     # hangs in test.pl (funny version number)
-    |NewsClipper-[0-9.]+-OpenSource # hang in pl
+    |(?:emb|syb|bio)?perl-\d
+    |(?:parrot|ponie|kurila|Perl6-Pugs)-\d
+    |Alien-   # just my bias that this is fraught with peril for smoking
+    |Perl-Dist- # don't test perl builders
+    |perl-?5\.004 
+    |perl_mlb\.zip
     )|

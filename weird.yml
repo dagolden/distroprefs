@@ -1,0 +1,14 @@
+--- 
+comment: |
+  Disable dists that do strange things or have some odd name
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |DBD-JDBC-\d  # whoa! somehow killed a whole smoking session.  SIGHUP?
+    |XAO-         # a whole family of dists that prompt.  ugh
+    |XML-DB       # hangs in test.pl (no version number)
+    |TSM_\d       # hangs in test.pl (funny version number)
+    |NewsClipper-[0-9.]+-OpenSource # hang in pl (funny version number)
+    )|

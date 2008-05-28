@@ -1,10 +1,10 @@
 --- 
 comment: |
-  Things not to test on linux
+  Things to skip when the os isnt win32
 disabled: 1
 match:
   perlconfig:
-    osname: linux
+    osname: "^(?!mswin32)"
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely

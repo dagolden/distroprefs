@@ -1,6 +1,6 @@
 --- 
 comment: |
-  Things that hang in tests
+  Things that hang in make or Build
 disabled: 1
 match:
   distribution: |

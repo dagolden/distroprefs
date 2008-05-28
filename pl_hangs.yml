@@ -1,6 +1,6 @@
 --- 
 comment: |
-  Things that hang in PL
+  Things that hang in Makefile.PL or Build.PL.  Usually prompts
 disabled: 1
 match:
   distribution: |
@@ -8,94 +8,94 @@ match:
     .^   # never matches, only purpose is to let things align nicely
     |AFS
     |Alzabo-GUI-Mason
+    |Apache-AppCluster
     |Apache-AuthCookie
+    |Apache-AuthKrb5Afs
+    |Apache-Compress
     |Apache-Filter
+    |Apache-SSI
     |Apache-SessionX
     |Apache-Test
+    |Apache-Wombat
     |Apache-forks
     |Apache2-ASP
+    |Async-Callback
+    |Authen-Krb5-Easy
+    |Bio-Medpost
+    |Business-CSI
+    |CGI-Debug
+    |CGI-SpeedyCGI
+    |CGI-WML
     |Chart-Graph
+    |Class-DBI-DB2
+    |Config-Framework
     |DBD-Pg
     |DBIx-Password
     |DBIx-Recordset
-    |SQL-Catalog
-    |Inline-Octave
-    |rrdpoller
-    |Apache-SSI
-    |Apache-AuthKrb5Afs
-    |Apache-Compress
-    |Mail-IMAPFolderSearch
-    |POE-Component-LaDBI
-    |SPOPSx-Ginsu
-    |Class-DBI-DB2
-    |xmltv
-    |Net-DHCP-Control
-    |Nagios-WebTransact
-    |Openview-Message
-    |HTML-DBTable
-    |Nagios-WebTransact-Timed
-    |SWISH-Fork
-    |Text-UPF
-    |Config-Framework
-    |CGI-SpeedyCGI
-    |stem
-    |Text-GenderFromName
-    |Sybase-Xfer
-    |Net-FTPServer-PWP    # double check this one
-    |CGI-WML
-    |RCU
-    |HTML-Embperl
-    |grepmail
-    |WebTools
-    |bbobj
-    |Inline-Java
-    |Jvm
-    |Authen-Krb5-Easy
-    |HTML-Puzzle
-    |htpl
-    |Apache-AppCluster
     |DBIx-XMLServer
-    |PBJ-JNI
-    |Speech-Recognizer-ViaVoice
-    |Apache-Wombat
-    |MPEG-MP3Play
-    |Business-CSI
-    |Rx
-    |Async-Callback
-    |HTML-Bricks
-    |Replication-Recall
-    |HTML-EP
-    |CGI-Debug
-    |HTML-Validator
-    |SNMP-Util
     |DataFax-StudySubs
     |DateTime-LazyInit
     |DbFramework
     |File-Rsync
+    |HTML-Bricks
+    |HTML-DBTable
+    |HTML-EP
+    |HTML-Embperl
+    |HTML-Puzzle
+    |HTML-Validator
     |HTML-WikiConverter-DokuWikiFCK
     |IPTables-IPv4-DBTarpit
+    |Inline-Java
+    |Inline-Octave
     |Jabber-mod_perl
-    |Bio-Medpost
+    |Jvm
     |LaTeX-Driver 
     |Lingua-LinkParser
     |Lingua-PT-Speaker
+    |MPEG-MP3Play
+    |Mail-IMAPFolderSearch
     |Math-Pari
     |Myco
+    |Nagios-WebTransact
+    |Nagios-WebTransact-Timed
     |Net-Bonjour
+    |Net-DHCP-Control
+    |Net-FTPServer-PWP    # double check this one
     |Net-FullAuto
     |Net-LDAPapi
     |Net-MirrorDir
     |NetSNMP-OID
     |OpenResty
+    |Openview-Message
     |P4
     |PApp
+    |PBJ-JNI
+    |POE-Component-LaDBI
     |PerlCryptLib
     |PersistentPerl
+    |RCU
     |RRDTool-OO
+    |Replication-Recall
+    |Rx
     |SNMP
+    |SNMP-Util
+    |SPOPSx-Ginsu
+    |SQL-Catalog
+    |SWISH-Fork
     |Sepia
+    |Speech-Recognizer-ViaVoice
+    |Sybase-Xfer
+    |Text-GenderFromName
+    |Text-UPF
     |WWW-Autosite
+    |WebTools
     |XML-Comma
+    |bbobj
+    |grepmail
+    |htpl
     |mod_perl
+    |rrdpoller
+    |stem
     |xDash
+    |xmltv
     )-\d|
