@@ -11,4 +11,6 @@ match:
     |Perl-Dist
     |XAO-        # a whole family of dists that prompt.  ugh
     |XML-DB     # hangs in test (no version number)
+    |TSM_\d     # hangs in test.pl (funny version number)
+    |NewsClipper-[0-9.]+-OpenSource # hang in pl
     )|

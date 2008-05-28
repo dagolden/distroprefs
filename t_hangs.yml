@@ -29,10 +29,26 @@ match:
     |HTTP-File
     |HTTP-Lite
     |Handel
+    |MIDI-Music
+    |DBIx-Broker
+    |Emacs-EPL
+    |IPC-Shareable
+    |TableMap
     |Hardware-1Wire-HA7Net
     |IMAP-Admin
     |IO-File-Log
+    |Device-Audiotron
+    |DBIx-SQLEngine
+    |Relations-Abstract
+    |MySQL-TableInfo
+    |Sys-Ptrace
+    |Script
+    |Net-APP
+    |Net-Peep
+    |Sybase-RepAgent
+    |Tie-Table
     |Java
+    |Authen-CyrusSAS
     |MARC-Errorchecks
     |Mac-iTunes
     |Mail-SendEasy
@@ -51,6 +67,11 @@ match:
     |Term-Screen
     |Term-Twiddle
     |Test-Harness-FileFilter  # deep recursion
+    |Filter-Handle
+    |Authen-CyrusSASL
+    |Net-DLookup
+    |sitemapper
+    |WAIT               # infinite loop prompt
     |Text-Reflow
     |TiVo-HME
     |UDPM

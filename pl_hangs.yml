@@ -49,7 +49,25 @@ match:
     |WebTools
     |bbobj
     |Inline-Java
+    |Jvm
+    |Authen-Krb5-Easy
+    |HTML-Puzzle
+    |htpl
+    |Apache-AppCluster
     |DBIx-XMLServer
+    |PBJ-JNI
+    |Speech-Recognizer-ViaVoice
+    |Apache-Wombat
+    |MPEG-MP3Play
+    |Business-CSI
+    |Rx
+    |Async-Callback
+    |HTML-Bricks
+    |Replication-Recall
+    |HTML-EP
+    |CGI-Debug
+    |HTML-Validator
+    |SNMP-Util
     |DataFax-StudySubs
     |DateTime-LazyInit
     |DbFramework
