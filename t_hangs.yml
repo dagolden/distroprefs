@@ -84,6 +84,7 @@ match:
     |WAIT                     # infinite loop prompt
     |WWW-Google-Groups
     |WWW-LEO
+    |WWW-Patent-Page        # lengthy download
     |WWW-Search-Googlism
     |WebService-FreeDB
     |WebService-GoogleHack
