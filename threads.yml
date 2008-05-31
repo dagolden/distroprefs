@@ -1,0 +1,16 @@
+--- 
+comment: |
+  Things that were bad on my threads run
+disabled: 1
+match:
+  perlconfig:
+    archname: thread
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |App-Control
+    |Device-WxM2
+    |MMM-Text-Search 
+    |Parallel-Workers
+    |Thread-Isolate
+    )-\d|
