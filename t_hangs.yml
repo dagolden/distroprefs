@@ -64,6 +64,7 @@ match:
     |OpenFrame-Segment-Apache
     |POE-Component-DirWatch
     |Qmail-Mysql
+    |Quota
     |Relations-Abstract
     |Rstat-Client
     |SQL-AnyDBD
