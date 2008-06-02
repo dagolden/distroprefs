@@ -10,6 +10,7 @@ match:
     |ApacheBench
     |Authen-CyrusSAS
     |Authen-CyrusSASL
+    |Bot-Net
     |Catalyst-View-Reproxy
     |Class-Scaffold       # deep recursion
     |Crypt-SKey
