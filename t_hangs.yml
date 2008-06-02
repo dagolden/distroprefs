@@ -8,6 +8,7 @@ match:
     .^   # never matches, only purpose is to let things align nicely
     |Acme-Tests
     |ApacheBench
+    |App-Control
     |Authen-CyrusSAS
     |Authen-CyrusSASL
     |Bot-Net
@@ -15,6 +16,7 @@ match:
     |Class-Scaffold       # deep recursion
     |Crypt-SKey
     |DBIx-Broker
+    |DBIx-CSSQuery
     |DBIx-NamedDSN
     |DBIx-SQLCrosstab
     |DBIx-SQLEngine
@@ -22,7 +24,6 @@ match:
     |Date-LastModified
     |Devel-ObjectTracker    # consumes all system memory on my smoker
     |Devel-PreProcessor
-    |DBIx-CSSQuery
     |Devel-Trace
     |Device-Audiotron
     |Device-SerialPort
@@ -66,8 +67,8 @@ match:
     |Net-Telnet
     |OpenFrame
     |OpenFrame-Segment-Apache
-    |POE-Component-DirWatch
     |POE-Component-CPAN-LinksToDocs-No404s
+    |POE-Component-DirWatch
     |Qmail-Mysql
     |Quota
     |Relations-Abstract
