@@ -20,6 +20,7 @@ match:
     |Date-LastModified
     |Devel-ObjectTracker    # consumes all system memory on my smoker
     |Devel-PreProcessor
+    |DBIx-CSSQuery
     |Devel-Trace
     |Device-Audiotron
     |Device-SerialPort
@@ -42,6 +43,7 @@ match:
     |IO-File-Log
     |IPC-Shareable
     |Java
+    |LWPx-TimedHTTP
     |Log-ErrLogger
     |MARC-Errorchecks
     |MIDI-Music
@@ -63,6 +65,7 @@ match:
     |OpenFrame
     |OpenFrame-Segment-Apache
     |POE-Component-DirWatch
+    |POE-Component-CPAN-LinksToDocs-No404s
     |Qmail-Mysql
     |Quota
     |Relations-Abstract

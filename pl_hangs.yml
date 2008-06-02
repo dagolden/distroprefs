@@ -35,6 +35,7 @@ match:
     |DBIx-Password
     |DBIx-Recordset
     |DBIx-XMLServer
+    |Data-Conveyor
     |DataFax-StudySubs
     |DateTime-LazyInit
     |DbFramework
@@ -93,6 +94,7 @@ match:
     |WebTools
     |XML-Comma
     |bbobj
+    |forks
     |grepmail
     |htpl
     |mod_perl
