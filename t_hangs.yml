@@ -11,6 +11,7 @@ match:
     |Authen-CyrusSAS
     |Authen-CyrusSASL
     |Catalyst-View-Reproxy
+    |Class-Scaffold       # deep recursion
     |Crypt-SKey
     |DBIx-Broker
     |DBIx-NamedDSN
