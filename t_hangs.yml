@@ -91,6 +91,7 @@ match:
     |WAIT                     # infinite loop prompt
     |WWW-Google-Groups
     |WWW-LEO
+    |WWW-Mechanize-Shell
     |WWW-Patent-Page        # lengthy download
     |WWW-Search-Googlism
     |WebService-FreeDB
