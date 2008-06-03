@@ -9,6 +9,7 @@ match:
     |Acme-Tests
     |ApacheBench
     |App-Control
+    |Attribute-Persistent # deep recursion
     |Authen-CyrusSAS
     |Authen-CyrusSASL
     |Bot-Net
