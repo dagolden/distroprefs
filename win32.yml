@@ -13,11 +13,13 @@ match:
     |AnyEvent
     |BGS
     |Bio-Das-ProServer
+    |Business-PayPal-EWP
     |CGI-CMS
     |Carp-Diagnostics
     |Catalyst-Controller-SOAP
     |Catalyst-Controller-SOAP
     |Catalyst-Runtime
+    |Config-Hierarchical
     |Coro
     |DBIx-Log4perl
     |DBIx-Recordset
@@ -27,7 +29,9 @@ match:
     |Eval-Context
     |File-NFSLock
     |Games-RolePlay-MapGen
+    |HTML-Widget
     |HTTP-Proxy
+    |HTTP-Server-Brick
     |HTTP-Server-Simple
     |IPC-DirQueue
     |IPC-MorseSignals
@@ -35,23 +39,31 @@ match:
     |LWPx-TimedHTTP
     |LaTeX-Driver
     |Lirc-Client
+    |List-Tuples
     |Net-Pcap
     |Net-Server-Mail
+    |NetSNMP-ASN
+    |NetSNMP-TrapReceiver
+    |NetSNMP-agent
+    |NetSNMP-default_store
     |POD-Tested
     |POE-Component-Client-HTTP
     |POE-Component-Client-SMTP
     |POE-Component-MessageQueue
     |POE-Component-PreforkDispatch
-    |POE-Component-Server-HTTP-KeepAlive
     |POE-Component-Server-HTTP
+    |POE-Component-Server-HTTP-KeepAlive
     |Parallel-SubFork
     |Paranoid
     |Prima
     |Proc-Simple
     |RT-Client-REST
+    |Scalar-Cycle-Manual
     |Term-Shell
     |Test-Cookbook
     |Test-WWW-Selenium-Catalyst
+    |Tripletail
+    |WWW-Mechanize-Shell
     |Win32-FileOp
     |XML-Stream
     )-\d|
