@@ -52,6 +52,7 @@ match:
     |MARC-Errorchecks
     |MIDI-Music
     |MMM-OracleDump
+    |MMM-Text-Search
     |MOP
     |Mac-iTunes
     |Mail-SendEasy
