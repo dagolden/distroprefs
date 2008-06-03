@@ -32,6 +32,7 @@ match:
     |Class-DBI-DB2
     |Config-Framework
     |DBD-Pg
+    |DBIx-MyParse
     |DBIx-Password
     |DBIx-Recordset
     |DBIx-XMLServer
