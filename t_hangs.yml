@@ -103,5 +103,6 @@ match:
     |WebService-FreeDB
     |WebService-GoogleHack
     |WebService-Mappoint
+    |only                 # deep recursion
     |sitemapper
     )-\d|
