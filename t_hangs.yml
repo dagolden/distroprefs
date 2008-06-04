@@ -51,6 +51,7 @@ match:
     |Java
     |LWPx-TimedHTTP
     |Log-ErrLogger
+    |Log-Report           # deep recursion
     |MARC-Errorchecks
     |MIDI-Music
     |MMM-OracleDump
