@@ -59,6 +59,7 @@ match:
     |Mail-SendEasy
     |Mail-Sender
     |Math-TrulyRandom
+    |Mobile-Wurfl       # prompts for DB
     |MySQL-TableInfo
     |Net-APP
     |Net-Amazon-Thumbnail
