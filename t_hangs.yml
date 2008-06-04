@@ -28,6 +28,7 @@ match:
     |Devel-Trace
     |Device-Audiotron
     |Device-SerialPort
+    |Device-WxM2
     |EZDBI
     |Egg-Release-DBI        # deep recursion
     |Emacs-EPL
