@@ -41,6 +41,7 @@ match:
     |DateTime-LazyInit
     |DbFramework
     |File-Rsync
+    |GDS2
     |HTML-Bricks
     |HTML-DBTable
     |HTML-EP
