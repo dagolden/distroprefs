@@ -38,6 +38,7 @@ match:
     |DBIx-XMLServer
     |Data-Conveyor
     |DataFax-StudySubs
+    |Date-Business
     |DateTime-LazyInit
     |DbFramework
     |File-Rsync
