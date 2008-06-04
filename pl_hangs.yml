@@ -37,6 +37,7 @@ match:
     |DBIx-Recordset
     |DBIx-XMLServer
     |Data-Conveyor
+    |DataFax-StudyDB
     |DataFax-StudySubs
     |Date-Business
     |DateTime-LazyInit
