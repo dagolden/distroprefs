@@ -33,6 +33,7 @@ match:
     |Egg-Release-DBI        # deep recursion
     |Emacs-EPL
     |FAQ-OMatic
+    |Facebook               # network hang ?
     |Fax-Hylafax-Client
     |Filter-Handle
     |Game-Planeshift-Info
