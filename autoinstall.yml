@@ -7,6 +7,7 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |Acme-GuessNumber
+    |Acme-PerlTidy
     |Acme-VarMess
     |CGI-AppBuilder
     |CGI-AppBuilder-Config
