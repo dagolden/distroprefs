@@ -17,6 +17,7 @@ match:
     |Class-Random         # hangs with apparent mem leak
     |Class-Scaffold       # deep recursion
     |Cluster-Init         # some daemon hang
+    |Crypt-RandPasswd
     |Crypt-SKey
     |DBIx-Broker
     |DBIx-CSSQuery
