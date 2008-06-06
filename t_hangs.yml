@@ -15,6 +15,7 @@ match:
     |Bot-Net
     |Catalyst-View-Reproxy
     |Class-Scaffold       # deep recursion
+    |Cluster-Init         # some daemon hang
     |Crypt-SKey
     |DBIx-Broker
     |DBIx-CSSQuery
