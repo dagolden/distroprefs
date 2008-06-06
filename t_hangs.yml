@@ -71,6 +71,7 @@ match:
     |Net-Google
     |Net-Ifconfig-Wrapper
     |Net-Peep
+    |Net-SeedServe
     |Net-Telnet
     |OpenFrame
     |OpenFrame-Segment-Apache
