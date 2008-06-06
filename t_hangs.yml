@@ -74,6 +74,7 @@ match:
     |Net-Peep
     |Net-SeedServe
     |Net-Telnet
+    |NetServer-Generic
     |OpenFrame
     |OpenFrame-Segment-Apache
     |POE-Component-CPAN-LinksToDocs-No404s
