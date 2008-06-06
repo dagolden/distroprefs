@@ -14,6 +14,7 @@ match:
     |Authen-CyrusSASL
     |Bot-Net
     |Catalyst-View-Reproxy
+    |Class-Random         # hangs with apparent mem leak
     |Class-Scaffold       # deep recursion
     |Cluster-Init         # some daemon hang
     |Crypt-SKey
