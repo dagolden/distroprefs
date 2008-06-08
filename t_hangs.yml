@@ -12,6 +12,7 @@ match:
     |Attribute-Persistent # deep recursion
     |Authen-CyrusSAS
     |Authen-CyrusSASL
+    |C-DynaLib
     |Bot-Net
     |Catalyst-View-Reproxy
     |Class-Random         # hangs with apparent mem leak
@@ -79,6 +80,7 @@ match:
     |NetServer-Generic
     |OpenFrame
     |OpenFrame-Segment-Apache
+    |PAR
     |POE-Component-CPAN-LinksToDocs-No404s
     |POE-Component-DirWatch
     |Qmail-Mysql
