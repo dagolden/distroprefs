@@ -50,6 +50,7 @@ match:
     |Hardware-1Wire-HA7Net
     |IMAP-Admin
     |IO-File-Log
+    |IPC-DirQueue
     |IPC-Shareable
     |Java
     |LWPx-TimedHTTP
