@@ -20,6 +20,7 @@ match:
     |Cluster-Init         # some daemon hang
     |Crypt-RandPasswd
     |Crypt-SKey
+    |CSS-Moonfall         # some endless uninitialized value loop
     |DBIx-Broker
     |DBIx-CSSQuery
     |DBIx-NamedDSN
