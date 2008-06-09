@@ -94,6 +94,7 @@ match:
     |Sybase-RepAgent
     |Sys-Ptrace
     |TableMap
+    |Template-Alloy-XS       # deep recursion
     |Term-Screen
     |Term-Twiddle
     |Test-Harness-FileFilter  # deep recursion
