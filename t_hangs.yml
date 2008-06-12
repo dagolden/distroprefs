@@ -48,6 +48,7 @@ match:
     |HTML-Tested
     |HTTP-File
     |HTTP-Lite
+    |HTTP-MessageParser
     |Handel
     |Hardware-1Wire-HA7Net
     |IMAP-Admin
