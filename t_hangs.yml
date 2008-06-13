@@ -60,6 +60,7 @@ match:
     |LWPx-TimedHTTP
     |Log-ErrLogger
     |Log-Report           # deep recursion
+    |Mail-Webmail-Yahoo   # prompt
     |MARC-Errorchecks
     |MIDI-Music
     |MMM-OracleDump
