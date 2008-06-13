@@ -9,6 +9,7 @@ match:
     |Acme-GuessNumber
     |Acme-PerlTidy
     |Acme-VarMess
+    |Apache-AuthPerLDAP
     |CGI-AppBuilder
     |CGI-AppBuilder-Config
     |CGI-AppBuilder-Form
