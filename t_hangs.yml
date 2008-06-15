@@ -119,4 +119,4 @@ match:
     |WebService-Mappoint
     |only                 # deep recursion
     |sitemapper
-    )-\d|
+    )-v?\d|

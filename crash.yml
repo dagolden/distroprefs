@@ -7,4 +7,4 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |MySpam
-    )-\d|
+    )-v?\d|

@@ -66,4 +66,4 @@ match:
     |WWW-Mechanize-Shell
     |Win32-FileOp
     |XML-Stream
-    )-\d|
+    )-v?\d|

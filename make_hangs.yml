@@ -10,4 +10,4 @@ match:
     |Embperl
     |PGP-Sign    # prompts for signing program
     |TripleStore
-    )-\d|
+    )-v?\d|

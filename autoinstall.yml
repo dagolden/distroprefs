@@ -41,4 +41,4 @@ match:
     |Oracle-Schema
     |Oracle-Trigger
     |Test-MockClass
-    )-\d|
+    )-v?\d|

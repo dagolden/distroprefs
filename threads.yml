@@ -14,4 +14,4 @@ match:
     |MMM-Text-Search 
     |Parallel-Workers
     |Thread-Isolate
-    )-\d|
+    )-v?\d|

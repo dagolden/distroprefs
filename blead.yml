@@ -9,6 +9,7 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
+    |Angerwhale       # it or something in dependencies exhausted memory
     |FreezeThaw
     |POE-Component-Archive-Any
-    )-\d|
+    )-v?\d|
