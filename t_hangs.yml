@@ -92,6 +92,7 @@ match:
     |Relations-Abstract
     |Rstat-Client
     |SQL-AnyDBD
+    |Schedule-Cron
     |Script
     |Statistics-MaxEntropy
     |Sudo
