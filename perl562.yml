@@ -9,6 +9,7 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |Lingua-Translate
+    |Parallel-Prefork
     |Scriptalicious
     |WWW-Mechanize
     )-v?\d|
