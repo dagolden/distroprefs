@@ -12,6 +12,7 @@ match:
     |Devel-ebug
     |Lingua-Translate
     |Net-Daemon
+    |Parallel-ForkControl
     |Parallel-Prefork
     |Scriptalicious
     |WWW-Mechanize
