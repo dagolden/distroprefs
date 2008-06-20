@@ -10,6 +10,7 @@ match:
     .^   # never matches, only purpose is to let things align nicely
     |Data-Storage
     |Lingua-Translate
+    |Net-Daemon
     |Parallel-Prefork
     |Scriptalicious
     |WWW-Mechanize
