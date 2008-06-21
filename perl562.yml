@@ -14,6 +14,7 @@ match:
     |Lingua-Translate
     |Net-Daemon
     |Net-PSYC
+    |PPerl
     |Parallel-ForkControl
     |Parallel-Prefork
     |Pod-Wrap
