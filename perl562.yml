@@ -15,6 +15,7 @@ match:
     |Net-Daemon
     |Parallel-ForkControl
     |Parallel-Prefork
+    |Pod-Wrap
     |Scriptalicious
     |WWW-Mechanize
     )-v?\d|
