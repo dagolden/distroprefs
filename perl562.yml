@@ -8,6 +8,7 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
+    |Crypt-DH
     |Data-Storage
     |Devel-ebug
     |Lingua-Translate
