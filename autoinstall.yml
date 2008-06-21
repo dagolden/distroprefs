@@ -30,6 +30,7 @@ match:
     |File-Stat-Ls
     |File-Xcopy
     |JSAN-Librarian
+    |Lingua-POSAlign
     |Module-Signature
     |Net-SFTP-Recursive
     |Oracle-DDL
