@@ -13,6 +13,7 @@ match:
     |Devel-ebug
     |Lingua-Translate
     |Net-Daemon
+    |Net-PSYC
     |Parallel-ForkControl
     |Parallel-Prefork
     |Pod-Wrap
