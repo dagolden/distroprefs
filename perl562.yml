@@ -14,11 +14,12 @@ match:
     |Lingua-Translate
     |Net-Daemon
     |Net-PSYC
-    |PPerl
     |PDF-Template
+    |PPerl
     |Parallel-ForkControl
     |Parallel-Prefork
     |Pod-Wrap
     |Scriptalicious
+    |Text-ScriptTemplate
     |WWW-Mechanize
     )-v?\d|
