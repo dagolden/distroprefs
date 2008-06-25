@@ -85,6 +85,7 @@ match:
     |OpenFrame
     |OpenFrame-Segment-Apache
     |PAR
+    |POE-Component-Archive-Any
     |POE-Component-CPAN-LinksToDocs-No404s
     |POE-Component-DirWatch
     |Qmail-Mysql
