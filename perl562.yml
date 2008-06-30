@@ -19,6 +19,7 @@ match:
     |Parallel-ForkControl
     |Parallel-Prefork
     |Pod-Wrap
+    |Proc-Daemon
     |Scriptalicious
     |Text-ScriptTemplate
     |WWW-Mechanize
