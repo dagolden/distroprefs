@@ -1,0 +1,10 @@
+--- 
+comment: |
+  Things that prompt in Makefile.PL or Build.PL.  
+disabled: 1
+match:
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Newsletter
+    )-v?\d|
