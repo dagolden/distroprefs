@@ -25,6 +25,7 @@ match:
     |B-JVM-Jasmin
     |Bio-Medpost
     |Business-CSI
+    |CAS-Apache
     |CGI-AppBuilder
     |CGI-AppBuilder-Header
     |CGI-AppBuilder-Table
