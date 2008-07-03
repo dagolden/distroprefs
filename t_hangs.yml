@@ -110,6 +110,7 @@ match:
     |UDPM
     |UWO-Directory-Student
     |VCS-Vss
+    |WebService-ChangesXml
     |WAIT                     # infinite loop prompt
     |WWW-Google-Groups
     |WWW-LEO
