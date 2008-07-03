@@ -29,6 +29,7 @@ match:
     |DBIx-XHTML_Table
     |Data-HexDump         # hangs in test.pl
     |Date-LastModified
+    |Daemon-Simple
     |Devel-ObjectTracker    # consumes all system memory on my smoker
     |Devel-PreProcessor
     |Devel-Trace
