@@ -28,8 +28,9 @@ match:
     |DBIx-SQLEngine
     |DBIx-XHTML_Table
     |Data-HexDump         # hangs in test.pl
-    |Date-LastModified
     |Daemon-Simple
+    |Date-LastModified
+    |Debug-Client
     |Devel-ObjectTracker    # consumes all system memory on my smoker
     |Devel-PreProcessor
     |Devel-Trace
@@ -61,7 +62,6 @@ match:
     |LWPx-TimedHTTP
     |Log-ErrLogger
     |Log-Report           # deep recursion
-    |Mail-Webmail-Yahoo   # prompt
     |MARC-Errorchecks
     |MIDI-Music
     |MMM-OracleDump
@@ -70,6 +70,7 @@ match:
     |Mac-iTunes
     |Mail-SendEasy
     |Mail-Sender
+    |Mail-Webmail-Yahoo   # prompt
     |Math-TrulyRandom
     |Mobile-Wurfl       # prompts for DB
     |MySQL-TableInfo
