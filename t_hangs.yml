@@ -28,7 +28,6 @@ match:
     |DBIx-SQLEngine
     |DBIx-XHTML_Table
     |Data-HexDump         # hangs in test.pl
-    |Daemon-Simple
     |Date-LastModified
     |Debug-Client
     |Devel-ObjectTracker    # consumes all system memory on my smoker
