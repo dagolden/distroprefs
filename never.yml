@@ -8,8 +8,8 @@ match:
     .^   # never matches, only purpose is to let things align nicely
     |(?:emb|syb|bio)?perl-\d
     |(?:parrot|ponie|kurila|Perl6-Pugs)-\d
-    |Alien-   # just my bias that this is fraught with peril for smoking
     |Perl-Dist- # don't test perl builders
     |perl-?5\.004 
     |perl_mlb\.zip
+    |FreeHAL  # huge!
     )|

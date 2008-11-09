@@ -25,14 +25,18 @@ match:
     |DBIx-Recordset
     |Danga-Socket
     |Debian-Package-Make
+    |Debug-Client
     |Directory-Scratch-Structured
     |Eval-Context
     |File-NFSLock
     |Games-RolePlay-MapGen
     |HTML-Widget
+    |HTTP-Engine
     |HTTP-Proxy
     |HTTP-Server-Brick
     |HTTP-Server-Simple
+    |IO-Multiplex
+    |IO-Plumbing
     |IPC-DirQueue
     |IPC-MorseSignals
     |Konfidi-Client
@@ -40,12 +44,16 @@ match:
     |LaTeX-Driver
     |Lirc-Client
     |List-Tuples
+    |Log-Log4perl-CommandLine
+    |mpp
+    |MooseX-Daemonize
     |Net-Pcap
     |Net-Server-Mail
     |NetSNMP-ASN
     |NetSNMP-TrapReceiver
     |NetSNMP-agent
     |NetSNMP-default_store
+    |Padre-Debugger
     |POD-Tested
     |POE-Component-Client-HTTP
     |POE-Component-Client-SMTP
@@ -53,17 +61,23 @@ match:
     |POE-Component-PreforkDispatch
     |POE-Component-Server-HTTP
     |POE-Component-Server-HTTP-KeepAlive
+    |PITA-POE-SupportServer
     |Parallel-SubFork
     |Paranoid
     |Prima
     |Proc-Simple
+    |RPC-XML
     |RT-Client-REST
     |Scalar-Cycle-Manual
+    |Shipwright
+    |SOAP-Lite
     |Term-Shell
     |Test-Cookbook
+    |Test-TCP
     |Test-WWW-Selenium-Catalyst
     |Tripletail
     |WWW-Mechanize-Shell
     |Win32-FileOp
+    |XiaoI
     |XML-Stream
     )-\d|
