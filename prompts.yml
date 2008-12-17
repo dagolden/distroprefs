@@ -7,5 +7,6 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |Newsletter
+    |QDBM_File
     |Senna
     )-v?\d|

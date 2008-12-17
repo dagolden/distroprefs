@@ -90,7 +90,10 @@ match:
     |PAR
     |POE-Component-Archive-Any
     |POE-Component-CPAN-LinksToDocs-No404s
+    |POE-Component-CPAN-SQLite-Info
     |POE-Component-DirWatch
+    |POE-Component-WWW-Google-PageRank
+    |POE-Component-WebService-HtmlKitCom-FavIconFromImage
     |Qmail-Mysql
     |Quota
     |Relations-Abstract
@@ -107,6 +110,7 @@ match:
     |Term-Screen
     |Term-Twiddle
     |Test-Harness-FileFilter  # deep recursion
+    |TextLinkAds              # prompts
     |Text-Reflow
     |TiVo-HME
     |Tie-Table
