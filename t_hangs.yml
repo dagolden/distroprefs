@@ -28,6 +28,7 @@ match:
     |DBIx-SQLCrosstab
     |DBIx-SQLEngine
     |DBIx-XHTML_Table
+    |Daemon-Simple
     |Data-HexDump         # hangs in test.pl
     |Date-LastModified
     |Debug-Client
