@@ -120,6 +120,7 @@ match:
     |WebService-ChangesXml
     |WAIT                     # infinite loop prompt
     |WWW-Google-Groups
+    |WWW-Hashdb
     |WWW-LEO
     |WWW-Mechanize-Shell
     |WWW-Patent-Page        # lengthy download
