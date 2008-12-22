@@ -95,6 +95,7 @@ match:
     |POE-Component-DirWatch
     |POE-Component-WWW-Google-PageRank
     |POE-Component-WebService-HtmlKitCom-FavIconFromImage
+    |Proc-Safetynet
     |Qmail-Mysql
     |Quota
     |Relations-Abstract
