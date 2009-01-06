@@ -7,7 +7,39 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |Acme-GuessNumber
+    |Acme-PerlTidy
+    |Acme-VarMess
+    |Apache-AuthPerLDAP
+    |CGI-AppBuilder
+    |CGI-AppBuilder-Config
+    |CGI-AppBuilder-Form
+    |CGI-AppBuilder-Frame
+    |CGI-AppBuilder-Header
+    |CGI-AppBuilder-Log
+    |CGI-AppBuilder-Message
+    |CGI-AppBuilder-Table
+    |CGI-Getopt
     |Crypt-OpenPGP
+    |Data-Describe
+    |Data-Display
+    |Data-Fax
+    |DataFax
+    |DataFax-StudyDB
+    |DataFax-StudySubs
+    |Debug-EchoMessage
+    |File-Stat-Ls
+    |File-Xcopy
+    |JSAN-Librarian
+    |Lingua-POSAlign
     |Module-Signature
+    |Net-SFTP-Recursive
+    |Oracle-DDL
+    |Oracle-DML
+    |Oracle-DML-Common
+    |Oracle-Loader
+    |Oracle-SQL
+    |Oracle-SQL-Builder
+    |Oracle-Schema
+    |Oracle-Trigger
     |Test-MockClass
-    )-\d|
+    )-v?\d|

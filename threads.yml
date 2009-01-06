@@ -9,9 +9,10 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |App-Control
+    |Benchmark-Thread-Size # 5.10.x
     |Crypt-RandPasswd
     |Device-WxM2
     |MMM-Text-Search 
     |Parallel-Workers
     |Thread-Isolate
-    )-\d|
+    )-v?\d|

@@ -1,0 +1,26 @@
+--- 
+comment: |
+  Things that went wrong on 5.6.2 that I think are OK elsewhere
+disabled: 1
+match:
+  perlconfig:
+    version: 5\.6\.2
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Crypt-DH
+    |Data-Storage
+    |Devel-ebug
+    |Lingua-Translate
+    |Net-Daemon
+    |Net-PSYC
+    |PDF-Template
+    |PPerl
+    |Parallel-ForkControl
+    |Parallel-Prefork
+    |Pod-Wrap
+    |Proc-Daemon
+    |Scriptalicious
+    |Text-ScriptTemplate
+    |WWW-Mechanize
+    )-v?\d|

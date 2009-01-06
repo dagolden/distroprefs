@@ -80,4 +80,4 @@ match:
     |Win32-FileOp
     |XiaoI
     |XML-Stream
-    )-\d|
+    )-v?\d|

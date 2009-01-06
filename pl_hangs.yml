@@ -25,6 +25,10 @@ match:
     |B-JVM-Jasmin
     |Bio-Medpost
     |Business-CSI
+    |CAS-Apache
+    |CGI-AppBuilder
+    |CGI-AppBuilder-Header
+    |CGI-AppBuilder-Table
     |CGI-Debug
     |CGI-SpeedyCGI
     |CGI-WML
@@ -37,10 +41,14 @@ match:
     |DBIx-Recordset
     |DBIx-XMLServer
     |Data-Conveyor
+    |DataFax
+    |DataFax-StudyDB
     |DataFax-StudySubs
+    |Date-Business
     |DateTime-LazyInit
     |DbFramework
     |File-Rsync
+    |GDS2
     |HTML-Bricks
     |HTML-DBTable
     |HTML-EP
@@ -58,7 +66,9 @@ match:
     |Lingua-PT-Speaker
     |MPEG-MP3Play
     |Mail-IMAPFolderSearch
+    |Mail-Salsa
     |Math-Pari
+    |MP3-Podcast
     |Myco
     |Nagios-WebTransact
     |Nagios-WebTransact-Timed
@@ -81,6 +91,7 @@ match:
     |RRDTool-OO
     |Replication-Recall
     |Rx
+    |SAP-Rfc
     |SNMP
     |SNMP-Util
     |SPOPSx-Ginsu
@@ -93,6 +104,7 @@ match:
     |Text-UPF
     |WWW-Autosite
     |WebTools
+    |XML-API-WIX2
     |XML-Comma
     |bbobj
     |forks
@@ -105,4 +117,4 @@ match:
     |stem
     |xDash
     |xmltv
-    )-\d|
+    )-v?\d|

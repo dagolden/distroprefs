@@ -1,0 +1,15 @@
+--- 
+comment: |
+  Things that went wrong on bleadperl
+disabled: 1
+match:
+  perlconfig:
+    version: 5\.11\.0
+    perl_patchlevel: \d
+  distribution: |
+    /(?x:
+    .^   # never matches, only purpose is to let things align nicely
+    |Angerwhale       # it or something in dependencies exhausted memory
+    |FreezeThaw
+    |POE-Component-Archive-Any
+    )-v?\d|

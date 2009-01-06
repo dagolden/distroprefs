@@ -9,28 +9,40 @@ match:
     |Acme-Tests
     |ApacheBench
     |App-Control
+    |Attribute-Persistent # deep recursion
     |Authen-CyrusSAS
     |Authen-CyrusSASL
+    |C-DynaLib
     |Bot-Net
     |Catalyst-View-Reproxy
+    |Class-Random         # hangs with apparent mem leak
     |Class-Scaffold       # deep recursion
+    |Cluster-Init         # some daemon hang
+    |Crypt-RandPasswd
     |Crypt-SKey
+    |CSS-Moonfall         # some endless uninitialized value loop
     |DBIx-Broker
     |DBIx-CSSQuery
+    |DBIx-DataModel
     |DBIx-NamedDSN
     |DBIx-SQLCrosstab
     |DBIx-SQLEngine
     |DBIx-XHTML_Table
+    |Daemon-Simple
+    |Data-HexDump         # hangs in test.pl
     |Date-LastModified
+    |Debug-Client
     |Devel-ObjectTracker    # consumes all system memory on my smoker
     |Devel-PreProcessor
     |Devel-Trace
     |Device-Audiotron
     |Device-SerialPort
+    |Device-WxM2
     |EZDBI
     |Egg-Release-DBI        # deep recursion
     |Emacs-EPL
     |FAQ-OMatic
+    |Facebook               # network hang ?
     |Fax-Hylafax-Client
     |Filter-Handle
     |Game-Planeshift-Info
@@ -40,22 +52,28 @@ match:
     |HTML-Tested
     |HTTP-File
     |HTTP-Lite
+    |HTTP-MessageParser
     |Handel
     |Hardware-1Wire-HA7Net
     |IMAP-Admin
     |IO-File-Log
+    |IPC-DirQueue
     |IPC-Shareable
     |Java
     |LWPx-TimedHTTP
     |Log-ErrLogger
+    |Log-Report           # deep recursion
     |MARC-Errorchecks
     |MIDI-Music
     |MMM-OracleDump
+    |MMM-Text-Search
     |MOP
     |Mac-iTunes
     |Mail-SendEasy
     |Mail-Sender
+    |Mail-Webmail-Yahoo   # prompt
     |Math-TrulyRandom
+    |Mobile-Wurfl       # prompts for DB
     |MySQL-TableInfo
     |Net-APP
     |Net-Amazon-Thumbnail
@@ -63,34 +81,48 @@ match:
     |Net-Goofey
     |Net-Google
     |Net-Ifconfig-Wrapper
+    |Net-Link
     |Net-Peep
+    |Net-SeedServe
     |Net-Telnet
+    |NetServer-Generic
     |OpenFrame
     |OpenFrame-Segment-Apache
+    |PAR
+    |POE-Component-Archive-Any
     |POE-Component-CPAN-LinksToDocs-No404s
+    |POE-Component-CPAN-SQLite-Info
     |POE-Component-DirWatch
+    |POE-Component-WWW-Google-PageRank
+    |POE-Component-WebService-HtmlKitCom-FavIconFromImage
+    |Proc-Safetynet
     |Qmail-Mysql
     |Quota
     |Relations-Abstract
     |Rstat-Client
     |SQL-AnyDBD
+    |Schedule-Cron
     |Script
     |Statistics-MaxEntropy
     |Sudo
     |Sybase-RepAgent
     |Sys-Ptrace
     |TableMap
+    |Template-Alloy-XS       # deep recursion
     |Term-Screen
     |Term-Twiddle
     |Test-Harness-FileFilter  # deep recursion
+    |TextLinkAds              # prompts
     |Text-Reflow
     |TiVo-HME
     |Tie-Table
     |UDPM
     |UWO-Directory-Student
     |VCS-Vss
+    |WebService-ChangesXml
     |WAIT                     # infinite loop prompt
     |WWW-Google-Groups
+    |WWW-Hashdb
     |WWW-LEO
     |WWW-Mechanize-Shell
     |WWW-Patent-Page        # lengthy download
@@ -98,5 +130,7 @@ match:
     |WebService-FreeDB
     |WebService-GoogleHack
     |WebService-Mappoint
+    |XiaoI
+    |only                 # deep recursion
     |sitemapper
-    )-\d|
+    )-v?\d|
