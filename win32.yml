@@ -56,6 +56,7 @@ match:
     |NetSNMP-agent
     |NetSNMP-default_store
     |Padre-Debugger
+    |Parallel-Depend
     |POD-Tested
     |POE-Component-Client-HTTP
     |POE-Component-Client-SMTP
