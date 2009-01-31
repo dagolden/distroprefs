@@ -45,8 +45,10 @@ match:
     |Lirc-Client
     |List-Tuples
     |Log-Log4perl-CommandLine
+    |minismokebox
     |mpp
     |MooseX-Daemonize
+    |Net-LDAP-Class
     |Net-Pcap
     |Net-Server-Mail
     |NetSNMP-ASN
@@ -61,6 +63,7 @@ match:
     |POE-Component-PreforkDispatch
     |POE-Component-Server-HTTP
     |POE-Component-Server-HTTP-KeepAlive
+    |POE-Component-SmokeBox
     |PITA-POE-SupportServer
     |Parallel-SubFork
     |Paranoid
