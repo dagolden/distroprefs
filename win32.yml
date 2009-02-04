@@ -29,6 +29,7 @@ match:
     |Directory-Scratch-Structured
     |Eval-Context
     |File-NFSLock
+    |Flickr-Embed
     |Games-RolePlay-MapGen
     |HTML-Widget
     |HTTP-Engine
@@ -75,6 +76,7 @@ match:
     |Scalar-Cycle-Manual
     |Shipwright
     |SOAP-Lite
+    |TAP-Formatter-HTML
     |Term-Shell
     |Test-Cookbook
     |Test-TCP
