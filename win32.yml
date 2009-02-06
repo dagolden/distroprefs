@@ -31,6 +31,7 @@ match:
     |File-NFSLock
     |Flickr-Embed
     |Games-RolePlay-MapGen
+    |Geo-OSM-Tiles
     |HTML-Widget
     |HTTP-Engine
     |HTTP-Proxy
