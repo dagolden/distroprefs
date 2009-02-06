@@ -51,6 +51,7 @@ match:
     |mpp
     |MooseX-Daemonize
     |Net-DNS-Toolkit
+    |Net-DNS-TestNS
     |Net-LDAP-Class
     |Net-Pcap
     |Net-Server-Mail
