@@ -49,6 +49,7 @@ match:
     |minismokebox
     |mpp
     |MooseX-Daemonize
+    |Net-DNS-Toolkit
     |Net-LDAP-Class
     |Net-Pcap
     |Net-Server-Mail
