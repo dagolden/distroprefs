@@ -41,6 +41,7 @@ match:
     |IO-Plumbing
     |IPC-DirQueue
     |IPC-MorseSignals
+    |IPC-PerlSSH
     |Konfidi-Client
     |LWPx-TimedHTTP
     |LaTeX-Driver
