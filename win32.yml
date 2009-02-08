@@ -40,6 +40,7 @@ match:
     |IO-Multiplex
     |IO-Plumbing
     |IPC-DirQueue
+    |IPC-Locker
     |IPC-MorseSignals
     |IPC-PerlSSH
     |Konfidi-Client
