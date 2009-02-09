@@ -86,6 +86,7 @@ match:
     |Test-Cookbook
     |Test-TCP
     |Test-WWW-Selenium-Catalyst
+    |Text-Editor-Easy
     |Tripletail
     |WWW-Mechanize-Shell
     |Win32-FileOp
