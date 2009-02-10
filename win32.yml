@@ -87,6 +87,7 @@ match:
     |Test-TCP
     |Test-WWW-Selenium-Catalyst
     |Text-Editor-Easy
+    |Tk-ObjEditor
     |Tripletail
     |WWW-Mechanize-Shell
     |Win32-FileOp
