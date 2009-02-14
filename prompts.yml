@@ -10,4 +10,5 @@ match:
     |Newsletter
     |QDBM_File
     |Senna
+    |LedgerSMB-API
     )-v?\d|
