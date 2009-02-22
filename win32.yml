@@ -52,7 +52,7 @@ match:
     |minismokebox
     |mpp
     |MooseX-Daemonize
-    |Net-DNS-Toolkit
+    |Net-DNS-ToolKit
     |Net-DNS-TestNS
     |Net-LDAP-Class
     |Net-Pcap
