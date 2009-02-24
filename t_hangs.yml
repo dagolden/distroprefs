@@ -112,6 +112,7 @@ match:
     |Term-Screen
     |Term-Twiddle
     |Test-Harness-FileFilter  # deep recursion
+    |Test-WWW-Mechanize
     |TextLinkAds              # prompts
     |Text-Reflow
     |TiVo-HME
