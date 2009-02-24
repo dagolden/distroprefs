@@ -31,6 +31,7 @@ match:
     |File-NFSLock
     |Flickr-Embed
     |Games-RolePlay-MapGen
+    |Games-Sudoku-SudokuTk
     |Geo-OSM-Tiles
     |HTML-Widget
     |HTTP-Engine
@@ -87,6 +88,7 @@ match:
     |Test-TCP
     |Test-WWW-Selenium-Catalyst
     |Text-Editor-Easy
+    |Tk-TextHighlight
     |Tk-ObjEditor
     |Tripletail
     |WWW-Mechanize-Shell
