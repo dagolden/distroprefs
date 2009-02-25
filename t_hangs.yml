@@ -79,6 +79,7 @@ match:
     |Net-APP
     |Net-Amazon-Thumbnail
     |Net-DLookup
+    |Net-FTPSSL # prompts
     |Net-Goofey
     |Net-Google
     |Net-Ifconfig-Wrapper
