@@ -7,6 +7,7 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |Acme-Tests
+    |Acme-RPC             # web server waits for connection
     |ApacheBench
     |App-Control
     |Attribute-Persistent # deep recursion
