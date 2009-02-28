@@ -118,6 +118,7 @@ match:
     |Test-WWW-Mechanize
     |TextLinkAds              # prompts
     |Text-Reflow
+    |threads-emulate
     |TiVo-HME
     |Tie-Table
     |UDPM
