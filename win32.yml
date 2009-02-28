@@ -38,6 +38,7 @@ match:
     |HTTP-Proxy
     |HTTP-Server-Brick
     |HTTP-Server-Simple
+    |IO-Event
     |IO-Multiplex
     |IO-Plumbing
     |IPC-DirQueue
