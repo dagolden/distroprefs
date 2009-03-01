@@ -66,6 +66,7 @@ match:
     |Padre-Debugger
     |Parallel-Depend
     |POD-Tested
+    |Pod-Wrap
     |POE-Component-Client-HTTP
     |POE-Component-Client-SMTP
     |POE-Component-MessageQueue
