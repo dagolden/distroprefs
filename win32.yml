@@ -54,6 +54,7 @@ match:
     |minismokebox
     |mpp
     |MooseX-Daemonize
+    |Mojo
     |Net-DNS-ToolKit
     |Net-DNS-TestNS
     |Net-LDAP-Class
