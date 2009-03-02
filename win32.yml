@@ -10,6 +10,7 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
+    |Amb
     |AnyEvent
     |BGS
     |Bio-Das-ProServer
