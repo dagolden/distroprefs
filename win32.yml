@@ -24,6 +24,7 @@ match:
     |Coro
     |DBIx-Log4perl
     |DBIx-Recordset
+    |Data-Transform-SAXBuilder
     |Danga-Socket
     |Debian-Package-Make
     |Debug-Client
