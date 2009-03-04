@@ -77,6 +77,7 @@ match:
     |POE-Component-Server-HTTP
     |POE-Component-Server-HTTP-KeepAlive
     |POE-Component-SmokeBox
+    |POE-Component-Server-SimpleXMLRPC
     |PITA-POE-SupportServer
     |Parallel-SubFork
     |Paranoid
