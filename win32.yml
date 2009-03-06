@@ -57,6 +57,7 @@ match:
     |mpp
     |MooseX-Daemonize
     |Mojo
+    |MojoMojo         # too many dependencies
     |Net-DNS-ToolKit
     |Net-DNS-TestNS
     |Net-LDAP-Class
@@ -98,6 +99,7 @@ match:
     |Tk-ObjEditor
     |Tripletail
     |WWW-Mechanize-Shell
+    |Win32-EnvProcess
     |Win32-FileOp
     |XiaoI
     |XML-Stream
