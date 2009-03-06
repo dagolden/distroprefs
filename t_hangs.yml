@@ -6,6 +6,7 @@ match:
   distribution: |
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
+    |Acme-Method-CaseInsensitive  # deep recursion
     |Acme-Tests
     |Acme-RPC             # web server waits for connection
     |ApacheBench
