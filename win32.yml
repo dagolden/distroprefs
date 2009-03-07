@@ -75,10 +75,11 @@ match:
     |POE-Component-Client-SMTP
     |POE-Component-MessageQueue
     |POE-Component-PreforkDispatch
+    |POE-Component-Server-DNS
     |POE-Component-Server-HTTP
     |POE-Component-Server-HTTP-KeepAlive
-    |POE-Component-SmokeBox
     |POE-Component-Server-SimpleXMLRPC
+    |POE-Component-SmokeBox
     |PITA-POE-SupportServer
     |Parallel-SubFork
     |Paranoid
