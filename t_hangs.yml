@@ -63,6 +63,7 @@ match:
     |IPC-DirQueue
     |IPC-Shareable
     |Java
+    |Jifty              # hangs (can't find Jifty::Test::WWW::Mechanize )
     |LWPx-TimedHTTP
     |Log-ErrLogger
     |Log-Report           # deep recursion
