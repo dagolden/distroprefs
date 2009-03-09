@@ -99,6 +99,7 @@ match:
     |Text-Editor-Easy
     |Tk-TextHighlight
     |Tk-ObjEditor
+    |TkUtil-Configure
     |Tripletail
     |WWW-Mechanize-Shell
     |Win32-EnvProcess
