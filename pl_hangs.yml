@@ -31,6 +31,7 @@ match:
     |CGI-AppBuilder-Table
     |CGI-Debug
     |CGI-SpeedyCGI
+    |CGI-Test
     |CGI-WML
     |Chart-Graph
     |Class-DBI-DB2
