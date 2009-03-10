@@ -13,6 +13,7 @@ match:
     |Alien-MeCab
     |Amb
     |AnyEvent
+    |App-TemplateServer-Provider-TD
     |BGS
     |Bio-Das-ProServer
     |Business-PayPal-EWP
