@@ -73,6 +73,7 @@ match:
     |Parallel-Depend
     |POD-Tested
     |Pod-Wrap
+    |POE-Component-Child
     |POE-Component-Client-HTTP
     |POE-Component-Client-SMTP
     |POE-Component-MessageQueue
