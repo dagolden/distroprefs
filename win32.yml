@@ -87,6 +87,7 @@ match:
     |Paranoid
     |Prima
     |Proc-Simple
+    |Puppet-Log
     |RPC-XML
     |RT-Client-REST
     |Scalar-Cycle-Manual
@@ -106,6 +107,7 @@ match:
     |WWW-Mechanize-Shell
     |Win32-EnvProcess
     |Win32-FileOp
+    |Win32-Script # prompts
     |XiaoI
     |XML-Stream
     )-v?\d|
