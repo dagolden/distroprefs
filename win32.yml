@@ -94,6 +94,7 @@ match:
     |RT-Client-REST
     |Scalar-Cycle-Manual
     |Shipwright
+    |Storable-AMF
     |SOAP-Lite
     |TAP-Formatter-HTML
     |Term-Shell
