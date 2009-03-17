@@ -57,6 +57,7 @@ match:
     |Log-Log4perl-CommandLine
     |minismokebox
     |mpp
+    |Module-Build-Kwalitee
     |MooseX-Daemonize
     |Mojo
     |MojoMojo         # too many dependencies
