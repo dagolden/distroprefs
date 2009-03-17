@@ -111,6 +111,7 @@ match:
     |Win32-EnvProcess
     |Win32-FileOp
     |Win32-Script # prompts
+    |WWW-Slides
     |XiaoI
     |XML-Stream
     )-v?\d|
