@@ -40,6 +40,7 @@ match:
     |Device-Audiotron
     |Device-SerialPort
     |Device-WxM2
+    |Directory-Transactional
     |DustyDB
     |EZDBI
     |Egg-Release-DBI        # deep recursion
@@ -48,6 +49,7 @@ match:
     |Facebook               # network hang ?
     |Fax-Hylafax-Client
     |Filter-Handle
+    |FlatFile-DataStore
     |Game-Planeshift-Info
     |Geo-Weather
     |GnuPG
