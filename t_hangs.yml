@@ -48,6 +48,7 @@ match:
     |Facebook               # network hang ?
     |Fax-Hylafax-Client
     |Filter-Handle
+    |FlatFile-DataStore
     |Game-Planeshift-Info
     |Geo-Weather
     |GnuPG
