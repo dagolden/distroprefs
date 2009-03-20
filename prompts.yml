@@ -7,6 +7,7 @@ match:
     /(?x:
     .^   # never matches, only purpose is to let things align nicely
     |Db-Documentum
+    |Math-Matlab
     |Newsletter
     |QDBM_File
     |Senna

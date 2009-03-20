@@ -49,6 +49,7 @@ match:
     |Fax-Hylafax-Client
     |Filter-Handle
     |FlatFile-DataStore
+    |Flickr-Embed
     |Game-Planeshift-Info
     |Geo-Weather
     |GnuPG
