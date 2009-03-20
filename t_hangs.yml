@@ -22,6 +22,7 @@ match:
     |Cluster-Init         # some daemon hang
     |Crypt-RandPasswd
     |Crypt-SKey
+    |Crypt-DH 
     |CSS-Moonfall         # some endless uninitialized value loop
     |DBIx-Broker
     |DBIx-CSSQuery
@@ -40,11 +41,13 @@ match:
     |Device-Audiotron
     |Device-SerialPort
     |Device-WxM2
+    |Directory-Transactional
     |DustyDB
     |EZDBI
     |Egg-Release-DBI        # deep recursion
     |Emacs-EPL
     |FAQ-OMatic
+    |Faster
     |Facebook               # network hang ?
     |Fax-Hylafax-Client
     |Filter-Handle
