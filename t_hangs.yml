@@ -105,6 +105,7 @@ match:
     |POE-Component-DirWatch
     |POE-Component-WWW-Google-PageRank
     |POE-Component-WebService-HtmlKitCom-FavIconFromImage
+    |POE-Filter-Hessian
     |Proc-Safetynet
     |Qmail-Mysql
     |Quota
