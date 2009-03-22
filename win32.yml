@@ -106,6 +106,7 @@ match:
     |Tk-ObjEditor
     |Tk-Multi
     |TkUtil-Configure
+    |Tree-File
     |Tripletail
     |WWW-Mechanize-Shell
     |Win32-EnvProcess
