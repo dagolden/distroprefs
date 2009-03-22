@@ -11,4 +11,5 @@ match:
     |XML-DB       # hangs in test.pl (no version number)
     |TSM_\d       # hangs in test.pl (funny version number)
     |NewsClipper-[0-9.]+-OpenSource # hang in pl (funny version number)
+    |LRpt_[0-9.]+ # open notebook in win32
     )|
