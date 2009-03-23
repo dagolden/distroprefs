@@ -78,6 +78,7 @@ match:
     |POE-Component-Child
     |POE-Component-Client-HTTP
     |POE-Component-Client-SMTP
+    |POE-Component-DirWatch-Object
     |POE-Component-MessageQueue
     |POE-Component-PreforkDispatch
     |POE-Component-Server-DNS
