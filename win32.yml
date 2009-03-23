@@ -48,6 +48,7 @@ match:
     |IPC-DirQueue
     |IPC-Locker
     |IPC-MorseSignals
+    |IPC-Open3-Simple
     |IPC-PerlSSH
     |Konfidi-Client
     |LWPx-TimedHTTP
