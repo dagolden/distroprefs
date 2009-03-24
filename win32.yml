@@ -13,6 +13,7 @@ match:
     |Alien-MeCab
     |Amb
     |AnyEvent
+    |Apache-Session
     |App-TemplateServer-Provider-TD
     |BGS
     |Bio-Das-ProServer
