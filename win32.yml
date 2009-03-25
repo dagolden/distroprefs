@@ -39,6 +39,7 @@ match:
     |Games-Sudoku-SudokuTk
     |Geo-OSM-Tiles
     |HTML-Widget
+    |HTML-Expander
     |HTTP-Engine
     |HTTP-Proxy
     |HTTP-Server-Brick
