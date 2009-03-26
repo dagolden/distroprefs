@@ -108,6 +108,7 @@ match:
     |Test-TCP
     |Test-WWW-Selenium-Catalyst
     |Text-Editor-Easy
+    |Tie-Handle-HTTP
     |Tk-TextHighlight
     |Tk-Image-Cut
     |Tk-ObjEditor
