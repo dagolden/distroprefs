@@ -124,6 +124,7 @@ match:
     |Template-Alloy-XS       # deep recursion
     |Term-Screen
     |Term-Twiddle
+    |Test-Fork
     |Test-Harness-FileFilter  # deep recursion
     |Test-WWW-Mechanize
     |TextLinkAds              # prompts
