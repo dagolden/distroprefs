@@ -39,6 +39,7 @@ match:
     |Games-Sudoku-SudokuTk
     |Geo-OSM-Tiles
     |HTML-Widget
+    |HTML-Expander
     |HTTP-Engine
     |HTTP-Proxy
     |HTTP-Server-Brick
@@ -106,6 +107,7 @@ match:
     |Test-WWW-Selenium-Catalyst
     |Text-Editor-Easy
     |Tk-TextHighlight
+    |Tk-Image-Cut
     |Tk-ObjEditor
     |Tk-Multi
     |TkUtil-Configure
