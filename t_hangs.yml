@@ -65,6 +65,7 @@ match:
     |Hardware-1Wire-HA7Net
     |IMAP-Admin
     |IO-File-Log
+    |IO-Async
     |IPC-DirQueue
     |IPC-Shareable
     |Java
