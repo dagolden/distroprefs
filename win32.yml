@@ -102,6 +102,7 @@ match:
     |SOAP-Lite
     |TAP-Formatter-HTML
     |Term-Shell
+    |Term-Screen-Win32
     |Test-Cookbook
     |Test-TCP
     |Test-WWW-Selenium-Catalyst
