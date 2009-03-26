@@ -103,6 +103,7 @@ match:
     |TAP-Formatter-HTML
     |Term-Shell
     |Term-Screen-Win32
+    |Term-Screen-Uni
     |Test-Cookbook
     |Test-TCP
     |Test-WWW-Selenium-Catalyst
