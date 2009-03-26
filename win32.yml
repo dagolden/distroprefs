@@ -107,6 +107,7 @@ match:
     |Test-WWW-Selenium-Catalyst
     |Text-Editor-Easy
     |Tk-TextHighlight
+    |Tk-Image-Cut
     |Tk-ObjEditor
     |Tk-Multi
     |TkUtil-Configure
