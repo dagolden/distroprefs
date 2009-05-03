@@ -9,6 +9,8 @@ match:
     |DBD-JDBC-\d  # whoa! somehow killed a whole smoking session.  SIGHUP?
     |XAO-         # a whole family of dists that prompt.  ugh
     |XML-DB       # hangs in test.pl (no version number)
+    |XML-Generator-RFC822-RDF-\d
+    |XML-Generator-vCard-Base-\d
     |TSM_\d       # hangs in test.pl (funny version number)
     |NewsClipper-[0-9.]+-OpenSource # hang in pl (funny version number)
     |LRpt_[0-9.]+ # open notebook in win32

@@ -122,6 +122,7 @@ match:
     |Sybase-RepAgent
     |Sys-Ptrace
     |TableMap
+    |TaskForest
     |Template-Alloy-XS       # deep recursion
     |Term-Screen
     |Term-Twiddle
