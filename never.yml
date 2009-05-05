@@ -11,6 +11,8 @@ match:
     |Perl-Dist- # don't test perl builders
     |perl-?5\.004 
     |perl_mlb\.zip
+    |Acme-BadExample
     |Acme-Mom-Yours
     |FreeHAL  # huge!
+    |ORDB-CPANTesters    # big download
     )|
