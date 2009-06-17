@@ -1,0 +1,11 @@
+--- 
+comment: |
+
+  http://code.google.com/p/www-mechanize/issues/detail?id=104
+
+  A bug in t/local/back.t can kill the whole process tree
+
+match:
+  distribution: "^PETDANCE/WWW-Mechanize-1.54.tar.gz$"
+patches:
+  - WWW-Mechanize-1.54.patch.gz
