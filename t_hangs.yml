@@ -57,6 +57,7 @@ match:
     |Geo-Weather
     |GnuPG
     |Google-Adwords
+    |HTML-FormFu # deep recursion
     |HTML-Tested
     |HTTP-File
     |HTTP-Lite
@@ -73,6 +74,7 @@ match:
     |LWPx-TimedHTTP
     |Log-ErrLogger
     |Log-Report           # deep recursion
+    |Mail-DSPAM-Learning    # prompts
     |MARC-Errorchecks
     |MIDI-Music
     |MMM-OracleDump
