@@ -39,6 +39,7 @@ match:
     |DBD-Pg
     |DBIx-MyParse
     |DBIx-Password
+    |DBIx-PasswordIniFile
     |DBIx-Recordset
     |DBIx-XMLServer
     |Data-Conveyor
