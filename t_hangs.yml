@@ -151,6 +151,7 @@ match:
     |WebService-GoogleHack
     |WebService-Mappoint
     |XiaoI
+    |XUL-Gui              # hangs waiting for browser
     |only                 # deep recursion
     |sitemapper
     )-v?\d|
