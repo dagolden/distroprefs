@@ -24,6 +24,7 @@ match:
     |Authen-Krb5-Easy
     |B-JVM-Jasmin
     |Bio-Medpost
+    |Bio-SamTools
     |Business-CSI
     |CAS-Apache
     |CGI-AppBuilder
