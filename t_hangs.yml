@@ -14,16 +14,17 @@ match:
     |Attribute-Persistent # deep recursion
     |Authen-CyrusSAS
     |Authen-CyrusSASL
-    |C-DynaLib
     |Bot-Net
+    |C-DynaLib
+    |CSS-Moonfall         # some endless uninitialized value loop
     |Catalyst-View-Reproxy
+    |Cisco-Management     # prompts
     |Class-Random         # hangs with apparent mem leak
     |Class-Scaffold       # deep recursion
     |Cluster-Init         # some daemon hang
+    |Crypt-DH 
     |Crypt-RandPasswd
     |Crypt-SKey
-    |Crypt-DH 
-    |CSS-Moonfall         # some endless uninitialized value loop
     |DBIx-Broker
     |DBIx-CSSQuery
     |DBIx-DataModel
@@ -62,6 +63,7 @@ match:
     |HTTP-File
     |HTTP-Lite
     |HTTP-MessageParser
+    |HTTP-Proxy
     |Handel
     |Hardware-1Wire-HA7Net
     |IMAP-Admin
@@ -104,6 +106,7 @@ match:
     |PAR
     |POE-Component-Archive-Any
     |POE-Component-CPAN-LinksToDocs-No404s
+    |POE-Component-Child
     |POE-Component-CPAN-SQLite-Info
     |POE-Component-DirWatch
     |POE-Component-WWW-Google-PageRank
