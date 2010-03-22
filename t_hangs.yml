@@ -12,6 +12,7 @@ match:
     |ApacheBench
     |App-Control
     |Attribute-Persistent # deep recursion
+    |Audio-FLAC-Header    # endless loop takes all memory
     |Authen-CyrusSAS
     |Authen-CyrusSASL
     |Bot-Net
