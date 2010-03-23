@@ -16,6 +16,7 @@ match:
     |Authen-CyrusSAS
     |Authen-CyrusSASL
     |Bot-Net
+    |B-C
     |C-DynaLib
     |CSS-Moonfall         # some endless uninitialized value loop
     |Catalyst-View-Reproxy
