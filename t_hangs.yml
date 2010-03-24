@@ -101,6 +101,7 @@ match:
     |Net-Link
     |Net-Peep
     |Net-SeedServe
+    |Net-SNMPTrapd   # prompts
     |Net-Telnet
     |NetServer-Generic
     |OpenFrame
