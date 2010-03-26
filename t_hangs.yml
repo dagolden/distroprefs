@@ -79,6 +79,7 @@ match:
     |LWPx-TimedHTTP
     |Log-ErrLogger
     |Log-Report           # deep recursion
+    |Log-Syslog-DangaSocket # test hangs
     |Mail-DSPAM-Learning    # prompts
     |MARC-Errorchecks
     |MIDI-Music
