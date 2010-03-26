@@ -17,6 +17,7 @@ match:
     |Authen-CyrusSASL
     |Bot-Net
     |B-C
+    |B-Debugger           # test.pl hangs
     |C-DynaLib
     |CSS-Moonfall         # some endless uninitialized value loop
     |Catalyst-View-Reproxy
